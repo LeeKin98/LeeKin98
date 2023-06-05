@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeeKin98, Master of Bioinformatics.
-- 👀 I’m interested in DataScience and Bioinformatics and I am always learning about the field.
+- 👀 I’m interested in Bioinformatics and DataScience.
 
 
 <!---
